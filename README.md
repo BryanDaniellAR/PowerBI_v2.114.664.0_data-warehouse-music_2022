@@ -1,5 +1,5 @@
 # PowerBI_v2.114.664.0_data-warehouse-music_2022
-Data Warehouse para compositores de música
+Data Warehouse para compositores de música (Aplicanndo el la Metodologia Ralhp Kimball y el diseño Estrella)
 
 # Identificar el nombre del proyecto
 * Desarrollo: Power BI
